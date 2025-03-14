@@ -1,7 +1,6 @@
 {
   "name": "conductor-runner-example",
   "version": "0.0.1",
-  "packageManager": "yarn@4.6.0",
   "description": "",
   "type": "module",
   "main": "dist/index.js",
